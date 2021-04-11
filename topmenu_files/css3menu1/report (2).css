@@ -1,0 +1,240 @@
+
+.pageTITLE1 {
+	margin-left: 0.5em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 16pt;
+	color: #990000;
+	line-height:  1.5em;
+	font-weight: bold;
+}
+.pageTITLE2 {
+	margin-left:0.7em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 15pt;
+	color: #145393;
+	line-height:  1.5em;
+	font-weight: bold;
+}
+
+.pageTITLE3 {
+	margin-left: 0.8em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 14pt;
+    line-height:  1.5em;
+	color: #2A5415;
+	font-weight: bold;
+}
+
+.pageTITLE4 {
+	margin-left:0.9em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 13pt;
+	line-height:  1.5em;
+	color: #7D2E46;
+	font-weight: bold;
+}
+
+
+
+.TextSmall {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 10pt;
+	line-height:  1.7em;
+	color: #333333;
+}
+.TextSmallGray {
+	margin: 0;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 10pt;
+	line-height:  1.5em;
+	color: #CC9933;
+}
+
+.Textinter {
+	margin: 0;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 9pt;
+	line-height:  1em;
+	color: #000;
+}
+
+
+.mapTitle {
+	margin: 0;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	color: #FFF;
+	font-size: 12pt;
+	line-height: 1em;
+	font-weight: bold;
+}
+
+.TextMid {
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #333333;
+}
+.TextList {
+	margin-left: 2em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	text-indent: -2em;
+	word-break: break-all;
+	color: #990000;
+}
+.TextList1 {
+	margin-left: 2em;
+	margin-right: 2em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	
+	word-break: break-all;
+	color: #990000;
+}
+
+
+.TextMidBold {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #333333;
+	font-weight: bold;
+}
+.TextMidBold02 {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+    text-indent: 2em;
+	color: #006633;
+	font-weight: bold;
+}
+
+
+.TextMidItalics {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height: 1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #990000;
+	font-style: oblique;
+}
+.TextMidItalics02 {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #009966;
+	font-style: oblique;
+}
+
+
+
+.TextBig {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 14pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #333333;
+}
+
+.TextSize{
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 10pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	text-indent: 2em;
+	color: #333333;
+	text-decoration: none;
+
+}
+.Description {
+	margin-left: 1em;
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	color: #666666;
+}
+.TableContent {
+	
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	color: #666600;
+	margin-left: 0.5em;
+}
+.TableContentGray {
+	
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	color: #333333;
+	margin-left: 0.5em;
+}
+
+.TableContentWhite {
+	
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	color: #FFFFFF;
+	margin-left: 0.5em;
+}
+.TableContentRed {
+	font-family: 微軟正黑體, Arial, sans-serif;
+	font-size: 12pt;
+	line-height:  1.7em;
+	text-align: justify;
+	text-justify: ideographic;
+	word-break: break-all;
+	color: #996633;
+	margin-left: 0.5em;
+}
